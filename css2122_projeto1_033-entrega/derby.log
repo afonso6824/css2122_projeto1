@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Apr 22 15:16:09 UTC 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0180-51d8-4034-00000771b7a8 
+on database directory /home/michael/IdeaProjects/css2122_projeto1_033/data/derby/css033/CSS033 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c29bfd 
+Loaded from file:/home/michael/.config/JetBrains/IntelliJIdea2022.1/jdbc-drivers/Apache%20Derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=JetBrains s.r.o.
+java.runtime.version=11.0.14.1+1-b2043.25
+user.dir=/home/michael/IdeaProjects/css2122_projeto1_033
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-107-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,5 @@
+package pt.ulisboa.css.css2122_projeto1_033.business.utils;
+
+public enum DATE_TYPE {
+	YEAR_MONTH_DAY, HOUR_MINUTE, YEAR_MONTH_DAY_HOUR_MINUTE, DAY_OF_WEEK_HOUR_MINUTE, DAY_MONTH_YEAR_TRACE_HOUR_MINUTE
+}
